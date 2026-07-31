@@ -37,15 +37,6 @@
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=primesspere&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=primesspere&theme=radical&hide_border=true" />
-</p>
-
----
-
 ### 🤝 Connect With Us
 
 <p align="center">
