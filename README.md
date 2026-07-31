@@ -1,4 +1,4 @@
-<h1 align="center">👋 Welcome to Primesspere</h1>
+<h1 align="center">👋 Welcome to Primespere</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+the+future%2C+one+repo+at+a+time.;Startup+%7C+Innovation+%7C+Code.;This+is+the+home+of+all+Primesspere+projects." alt="Typing SVG" />
