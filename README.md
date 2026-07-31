@@ -15,7 +15,3 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,django,mongodb,postgres,docker,aws,git,figma" />
 </p>
-
-
-
-<p align="center"><i>⭐ Explore our repositories below to see what we're building.</i></p>
